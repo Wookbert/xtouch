@@ -43,6 +43,8 @@ Currently, it has only been tested on the affordable 2.8-inch ESP32-2432S028R bo
 - [ESP32-2432S028R](https://s.click.aliexpress.com/e/_DmcFFVz)
 - [ESP32-2432S028R](https://s.click.aliexpress.com/e/_EwiGjNZ)
 
+Furthermore a quality micro SD card (500 MB or more) is needed.
+
 ### Optional Hardware
 
 - **[DS18B20 Temperature Sensor](docs/temperature-sensor.md)**: For printers that do not have an integrated chamber temperature sensor, you have the option to add an external DS18B20 temperature sensor. This sensor will provide accurate chamber temperature readings and enhance the functionality of your xtouch screen. Connector on the screen is 1.25 MZ JST 4P.
